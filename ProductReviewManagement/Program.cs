@@ -37,11 +37,7 @@ namespace ProductReviewManagement
                 new ProductReview() { ProductId = 24, UserId = 8, Rating = 2, Review = "Bad", isLike = true }, 
                 new ProductReview() { ProductId = 25, UserId = 12, Rating = 3, Review = "Average", isLike = false }
             };
-            //foreach (var list in productReviewlist)
-            //{
-            //    Console.WriteLine("Product Id :" + list.ProductId + "\t" + "User Id :" + list.UserId + "\t" + "Rating :" + list.Rating + "\t" + "Review :" + list.Review + "\t" + "Is Like :" + list.isLike);
-            //}
-            ProductManagement.RetrieveProductIDAndReviewUsingLambdaSyntax(productReviewlist);
+            ReviewTable.AddDataIntoDataTable();
             Console.ReadLine();
         }
     }
