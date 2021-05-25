@@ -1,0 +1,7 @@
+E:\ProductReviewManagement\ProductReviewManagement\bin\Debug\ProductReviewManagement.exe.config
+E:\ProductReviewManagement\ProductReviewManagement\bin\Debug\ProductReviewManagement.exe
+E:\ProductReviewManagement\ProductReviewManagement\bin\Debug\ProductReviewManagement.pdb
+E:\ProductReviewManagement\ProductReviewManagement\obj\Debug\ProductReviewManagement.csprojAssemblyReference.cache
+E:\ProductReviewManagement\ProductReviewManagement\obj\Debug\ProductReviewManagement.csproj.CoreCompileInputs.cache
+E:\ProductReviewManagement\ProductReviewManagement\obj\Debug\ProductReviewManagement.exe
+E:\ProductReviewManagement\ProductReviewManagement\obj\Debug\ProductReviewManagement.pdb
